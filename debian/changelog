@@ -1,0 +1,5 @@
+PROJECT (VERSION) stable; urgency=low
+
+  * Initial release.
+
+ -- NAME <EMAIL>  Thu, 15 May 2014 17:15:46 +0100

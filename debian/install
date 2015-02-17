@@ -1,0 +1,6 @@
+# Format:
+#  relative_files_from   installed_to
+
+project           usr/bin/
+project.desktop   usr/share/applications/
+po/mo/*           usr/share/locale/

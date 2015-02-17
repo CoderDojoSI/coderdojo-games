@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=CoderDojo Games
+Comment=Educational programming games in browser
+Exec=coderdojo-games
+OACategories=Games;Education

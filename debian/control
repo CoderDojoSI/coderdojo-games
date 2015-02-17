@@ -1,0 +1,19 @@
+Source: coderdojo-games
+Section: games
+Priority: optional
+Maintainer: AUTHOR <EMAIL>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+Homepage: http://www.coderdojo.si
+Vcs-Git: git://github.com/CoderDojoSi/coderdojo-games.git
+Vcs-Browser: https://github.com/CoderDojoSi/coderdojo-games
+
+Package: coderdojo-games
+Architecture: all
+Depends: ${misc:Depends}
+Description: Educational programming games
+ A collection of programming games written (mostly) in Flash
+ used as hour-of-code/introductory lesson to programming in
+ CoderDojo Ljubljana course.
+
+ Contributions welcome.
